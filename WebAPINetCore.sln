@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{8540DEA3-2BF1-439D-BEA9-C6F90600189E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{B651C163-8C50-426C-A863-A284116D41F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{DF4C3EC2-226F-4B86-A234-AE77D068EB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF4C3EC2-226F-4B86-A234-AE77D068EB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF4C3EC2-226F-4B86-A234-AE77D068EB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8540DEA3-2BF1-439D-BEA9-C6F90600189E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8540DEA3-2BF1-439D-BEA9-C6F90600189E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8540DEA3-2BF1-439D-BEA9-C6F90600189E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8540DEA3-2BF1-439D-BEA9-C6F90600189E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B651C163-8C50-426C-A863-A284116D41F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B651C163-8C50-426C-A863-A284116D41F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B651C163-8C50-426C-A863-A284116D41F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B651C163-8C50-426C-A863-A284116D41F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
